@@ -1,0 +1,2 @@
+# PhotoTour
+firefox only
