@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!DOCTYPE CountryCode [
+    <!ELEMENT CountryCode (Country*)>
+    <!ELEMENT Country (Name, Code)>
+    <!ELEMENT Name (#PCDATA)>
+    <!ELEMENT Code (#PCDATA)>
+]>
+
+<CountryCode>
+     <Country>
+        <Name>国を選択してください</Name>
+        <Code>def</Code>
+    </Country>
+     
+    <Country>
+        <Name>アメリカ合衆国</Name>
+        <Code>US</Code>
+    </Country>
+    
+    <Country>
+        <Name>イギリス</Name>
+        <Code>GB</Code>
+    </Country>
+    
+    <Country>
+        <Name>イタリア</Name>
+        <Code>IT</Code>
+    </Country>
+    
+    <Country>
+        <Name>スウェーデン</Name>
+        <Code>SE</Code>
+    </Country>
+    
+    <Country>
+        <Name>オーストラリア</Name>
+        <Code>AU</Code>
+    </Country>
+    
+    <Country>
+        <Name>ベルギー</Name>
+        <Code>BE</Code>
+    </Country>
+    
+    <Country>
+        <Name>ギリシャ</Name>
+        <Code>GR</Code>
+    </Country>
+    
+    <Country>
+        <Name>カナダ</Name>
+        <Code>CA</Code>
+    </Country>
+    
+    <Country>
+        <Name>シンガポール</Name>
+        <Code>SG</Code>
+    </Country>
+    
+    <Country>
+        <Name>ブラジル</Name>
+        <Code>BR</Code>
+    </Country>
+    
+    <Country>
+        <Name>タイ</Name>
+        <Code>TH</Code>
+    </Country>
+    
+    <Country>
+        <Name>大韓民国</Name>
+        <Code>KR</Code>
+    </Country>
+    
+    <Country>
+        <Name>中華人民共和国</Name>
+        <Code>CN</Code>
+    </Country>
+    
+    <Country>
+        <Name>グアム</Name>
+        <Code>GU</Code>
+    </Country>
+    
+    <Country>
+        <Name>スイス</Name>
+        <Code>CH</Code>
+    </Country>
+    
+    <Country>
+        <Name>フランス</Name>
+        <Code>FR</Code>
+    </Country>
+    
+    <Country>
+        <Name>チリ</Name>
+        <Code>CL</Code>
+    </Country>
+    
+    <Country>
+        <Name>ポルトガル</Name>
+        <Code>PT</Code>
+    </Country>
+    
+    <Country>
+        <Name>メキシコ</Name>
+        <Code>MX</Code>
+    </Country>
+    
+    <Country>
+        <Name>ロシア連邦</Name>
+        <Code>RU</Code>
+    </Country>
+</CountryCode>
